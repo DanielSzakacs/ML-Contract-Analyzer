@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: Contract Analyzer
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
